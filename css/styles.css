@@ -17,7 +17,19 @@ body, html {
 
 .content {
     text-align: center;
+    text-decoration: none;
 }
+
+.content a {
+    color: #17a2b8;
+}
+
+.content a:hover {
+    color: #eee5e9;
+}
+ .content a:visited {
+     color: #171a21;
+ }
 
 #self-closing img {
     width: 70px;
