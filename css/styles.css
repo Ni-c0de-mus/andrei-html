@@ -8,7 +8,23 @@
 
 body, html {
     margin: 0;
-    background-color: #fff;
+    background-color:#563d7c;
+    color: #eaeaea;
+    font-size: 17px;
     font-family: 'Dosis', sans-serif;
     line-height: 1.5;
+}
+
+.content {
+    text-align: center;
+}
+
+#self-closing img {
+    width: 70px;
+    height: 70px;
+}
+
+#links img {
+    width: 70px;
+    height: 70px;
 }
